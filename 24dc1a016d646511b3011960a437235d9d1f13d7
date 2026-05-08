@@ -1,0 +1,23 @@
+README.md
+  668497ef450edc3d 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23-bit.2+50d84e3",
+  "base_commit_sha": "24dc1a016d646511b3011960a437235d9d1f13d7",
+  "prompts": {
+    "668497ef450edc3d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9493f5a1-b36e-478b-9934-cc8aea77cd9d",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "bran.zhao <bran.zhao@lunarax.io>",
+      "messages": [],
+      "total_additions": 234,
+      "total_deletions": 0,
+      "accepted_lines": 234,
+      "overriden_lines": 0
+    }
+  }
+}
